@@ -1,0 +1,38 @@
+
+
+body {
+
+}
+img.displayed{
+	
+	position:fixed;
+	top: 0;
+	left: 0;
+	z-index : -1;
+	width : 100%;
+	height : 100%;
+	
+}
+#car{
+width: 250px;
+margin : auto; 
+}
+
+#car input{
+	width: 100%;
+	border-radius : 10px;
+}
+
+#rental
+{
+	width: 250px;
+margin : auto; 
+}
+
+#rental input{
+	width: 100%;
+	border-radius : 10px;
+}
+h1 {
+	text-align : center ; 
+}
